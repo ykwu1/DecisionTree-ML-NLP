@@ -1,7 +1,7 @@
 # DecisionTree-ML-NLP
 Train a model using an ID3 Decision Tree where it can correctly predict which 'whether' or 'weather' to use in an instance.
 
-Yun-Ching Wu
+Yun-Ching (Kenny) Wu
 
 Decision Tree
 
@@ -31,3 +31,6 @@ Height range: (1-24)
 
 Line 193 Before: max_height = 3
 Line 193 After:  max_height = 5
+
+
+Add more Features by adding more words in Line 199
